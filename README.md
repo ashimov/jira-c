@@ -61,4 +61,6 @@ AAAB+g0ODAoPeJyNU12PojAUfedXkOzjBmzRwY+kySriyIo6DrCT9a3iVTrD17bFGffXLwhmPjRmE15o
 
   i've tried contacting Jira's team to fix this but hasn't got a response yet  (: <br />
   if your still not able to crack jira with this code. it may have been banned by them. instead you can use this repo [atlassian-agent](https://gitee.com/pengzhile/atlassian-agent)  (all credits to him) and use atlassian-agent to generate a new license Code which will activate Jira until 2089.
-thanks to Mr. Saeid Hosseini  for finding this repo.
+thanks to Mr. Saeid Hosseini  for finding this repo.<br>
+
+also check this issue if you you have problems on windows <br>(https://github.com/sinanejadebrahim/jira-crack/issues/5)
