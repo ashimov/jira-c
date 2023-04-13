@@ -64,3 +64,9 @@ AAAB+g0ODAoPeJyNU12PojAUfedXkOzjBmzRwY+kySriyIo6DrCT9a3iVTrD17bFGffXLwhmPjRmE15o
 thanks to Mr. Saeid Hosseini  for finding this repo.<br>
 
 also check this issue if you have problems on windows <br>(https://github.com/sinanejadebrahim/jira-crack/issues/5)
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/sinanejadebrahim/jira-crack.svg)](https://starchart.cc/sinanejadebrahim/jira-crack)
+
